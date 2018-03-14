@@ -1,5 +1,7 @@
 nginx:
   build: ./nginx
   restart: always
+  volumes:
+    - /data/htdocs:/data/htdocs
   ports:
-    -"80:80"
+    - "80:80"
