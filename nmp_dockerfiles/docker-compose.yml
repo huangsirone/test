@@ -1,5 +1,3 @@
-image:
-  nginx
 
 nginx:
   build: ./nginx
