@@ -1,0 +1,1 @@
+FROM z100cehk.mirror.aliyuncs.com/library/nginx:1.13.7
